@@ -1,0 +1,10 @@
+First attempt 18 June 2024
+
+Data is from this project: https://github.com/githubhuyang/refactory
+
+Model uses the code from this project as a base: https://github.com/yoavalon/GNNProgramTermination/tree/main
+    Paper: https://arxiv.org/pdf/2207.14648
+
+ProcessData.py uses this as a starting point: https://github.com/qiankunmu/HDHGN/blob/main/ProcessData.py
+
+astmonkey is here: https://github.com/mutpy/astmonkey
